@@ -1,10 +1,11 @@
 [package]
 name = "schedule"
-version = "0.1.0"
+version = "0.1.1"
 description = "An in-process scheduler for periodic jobs. Schedule lets you run Rust functions on a cron-like schedule."
 authors = ["Ryan Leckey <leckey.ryan@gmail.com>"]
 homepage = "https://github.com/mehcode/schedule-rs"
 repository = "https://github.com/mehcode/schedule-rs"
+documentation = "https://docs.rs/schedule"
 readme = "README.md"
 license = "MIT/Apache-2.0"
 keywords = ["schedule", "cron", "job", "periodic"]
